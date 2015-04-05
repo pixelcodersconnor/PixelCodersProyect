@@ -1,4 +1,3 @@
-PixelCodersProyect
+PixelCodersProject
 ==================
-
-The PixelCoders Proyect
+This project has now been abandoned.
